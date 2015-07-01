@@ -1,0 +1,35 @@
+{
+  "name": "Custom-Elements",
+  "description": "Custom Element polyfill for Web Components.",
+  "version": "0.2.3",
+  "author": "Arron Schaar",
+  "keywords": [
+    "polyfill",
+    "web-components",
+    "x-tag"
+  ],
+  "main": "src/custom-elements.js",
+  "dependencies": {
+    "MutationObserver": "~0.2.0",
+    "classlist": "*"
+  },
+  "ignore": [
+    ".gitignore",
+    ".gitmodules",
+    "CustomElements/",
+    "Gruntfile.js",
+    "demo/",
+    "package.json",
+    "xtag.json"
+  ],
+  "homepage": "https://github.com/components/CustomElements",
+  "_release": "0.2.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.3",
+    "commit": "b3649aefb7d6f3739b43541ea94bf5c5f57182b9"
+  },
+  "_source": "git://github.com/components/CustomElements.git",
+  "_target": "0.2.3",
+  "_originalSource": "CustomElements"
+}
